@@ -1,4 +1,4 @@
-# Hierarchical-Agglomerative-Clustering-HAC-
+
 <!DOCTYPE html>
 <html>
 <head>
