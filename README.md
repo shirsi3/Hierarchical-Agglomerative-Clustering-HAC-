@@ -2,14 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Lab 8 - Data Analysis and Clustering</title>
-    <style>
-        body { font-family: Arial, sans-serif; }
-        h2 { color: navy; }
-        pre { background-color: #f8f8f8; padding: 10px; }
-    </style>
-</head>
-<body>
+  
     <h1>Lab 8: Data Analysis and Clustering in Python</h1>
     <p>This lab focuses on various data preprocessing, analysis, and clustering techniques using Python.</p>
 
